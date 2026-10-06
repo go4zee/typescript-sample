@@ -1,0 +1,1 @@
+const graph: [x: number, y: number] = [55.2, 25.2];
